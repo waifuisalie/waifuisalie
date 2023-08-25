@@ -20,15 +20,3 @@ I'm a devoted Computer Engineering student fueled by a deep passion for technolo
 ## Stats
 
 ![waifuisalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=waifuisalie&show_icons=true&theme=radical)
-
-
-
-          
-          
-          
-          
-          
-
-
-
-          
