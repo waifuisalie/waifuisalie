@@ -1,7 +1,41 @@
-- 👋 Hi, I’m @waifuisalie
-- 👀 I’m interested in data science and just generally coding some stuff 
-- 🌱 I’m currently learning C, Java and Python
-- 💞️ I’m looking to collaborate on anything lol, as long its fun
-- 📫 How to reach me: stefanme48@gmail.com
+# Stefan Benjamim 
+
+**'Aspiring Computer Engineer'**
+
+I'm a devoted Computer Engineering student fueled by a deep passion for technology. Excited about creating and innovating, I thrive at the intersection of hardware and coding. Join me on my journey of building a future driven by innovation.
+
+### Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img align="left" alt="C" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+
+<img align="left" alt="Bash" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<br />
+
+#
+
+## Stats
+
+![waifuisalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=waifuisalie&show_icons=true&theme=radical)
+
+
+
+          
+          
+          
+          
+          
+
+
+
+          
