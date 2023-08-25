@@ -15,9 +15,13 @@ I'm a devoted Computer Engineering student fueled by a deep passion for technolo
 
 <br />
 
-#
-
 ## Stats
 
-![waifuisalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=waifuisalie&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waifuisalie&layout=compact)
+<br />
+<a href="https://github.com/waifuisalie/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=waifuisalie&theme=radical&bg_color=000000&show_icons=true" />
+</a>
+<a href="https://github.com/waifuisalie/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waifuisalie&layout=donut&langs_count=8&card_width=320&theme=radical&bg_color=000000" />
+</a>
+<br />
