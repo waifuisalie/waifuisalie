@@ -1,6 +1,6 @@
 # Stefan Benjamim 
 
-**'Aspiring Computer Engineer'**
+**Aspiring Computer Engineer**
 
 I'm a devoted Computer Engineering student fueled by a deep passion for technology. Excited about creating and innovating, I thrive at the intersection of hardware and coding. Join me on my journey of building a future driven by innovation.
 
