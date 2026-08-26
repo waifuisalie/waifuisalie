@@ -1,15 +1,5 @@
 ```
-╭─ stefan benjamim ──────────────────────────────────────────╮
-│                                                            │
-│                                                            │
-│      S T E F A N   B E N J A M I M                         │
-│                                                            │
-│      ────────────────────────────────────────────▶        │
-│                                                            │
-│                        c o m p u t e r   e n g i n e e r   │
-│                                                            │
-│                                                            │
-├─ about ────────────────────────────────────────────────────┤
+╭─ stefan benjamim ────────────────────── computer engineer ─╮
 │                                                            │
 │   i enjoy building things, and learning new things         │
 │   that a build may require.                                │
@@ -27,7 +17,7 @@
 │                                                            │
 ├─ pinned below ─────────────────────────────────────────────┤
 │                                                            │
-│   what i've been building                        ────▶    │
+│   what i've been building                       ────▶      │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
